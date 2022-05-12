@@ -104,3 +104,8 @@ border-radius: 8px 8px 0 0;
     border-radius: 4px;
 
 }
+
+.dsmovie-form-container {
+    padding: 40px 0;
+    max-width: 480px;
+}
